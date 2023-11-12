@@ -1,0 +1,17 @@
+div{
+    background-color: coral;
+    border: 10px solid black;
+    margin: 50px 50px 60px 60px;
+    padding: 10px 20px 10px 20px;
+    /* width: 100px; */
+    text-align: center;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+body{
+    background-color: cornsilk;
+}
+h1{
+    padding-top: 10px;
+    text-align: center;
+}
